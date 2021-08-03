@@ -1,0 +1,4426 @@
+{
+  "kind": "blogger#postList",
+  "items": [
+    {
+      "kind": "blogger#post",
+      "id": "4054721533325061679",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T15:41:00-07:00",
+      "updated": "2021-08-02T15:41:52-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/acorus-calamus.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4054721533325061679",
+      "title": "Acorus calamus",
+      "content": "",
+      "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4054721533325061679/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTQ0MTEyMzU4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7090817191055016753",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T15:40:00-07:00",
+      "updated": "2021-08-02T15:40:05-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/adobo.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7090817191055016753",
+      "title": "Adobo",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7090817191055016753/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTQ0MDA1NjY3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6292731823853898631",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T15:38:00-07:00",
+      "updated": "2021-08-02T15:38:17-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/aframomum-corrorima.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6292731823853898631",
+      "title": "Aframomum corrorima",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6292731823853898631/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTQzODk3NzM4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2349098775341418697",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T15:36:00-07:00",
+      "updated": "2021-08-02T15:36:50-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/aframomum-melegueta.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2349098775341418697",
+      "title": "Aframomum melegueta",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2349098775341418697/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTQzODEwODYzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8754119030800660340",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T15:35:00-07:00",
+      "updated": "2021-08-02T15:35:15-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/ajwain.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/8754119030800660340",
+      "title": "Ajwain",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/8754119030800660340/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTQzNzE1NjEzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2624099857995754259",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T15:33:00-07:00",
+      "updated": "2021-08-02T15:33:38-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/aleppo-pepper.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2624099857995754259",
+      "title": "Aleppo pepper",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2624099857995754259/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTQzNjE4Mjg2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8298735688110640046",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T15:32:00-07:00",
+      "updated": "2021-08-02T15:32:05-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/alleppey-green-cardamom.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/8298735688110640046",
+      "title": "Alleppey Green Cardamom",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/8298735688110640046/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTQzNTI1OTk1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3658564009485945972",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T15:30:00-07:00",
+      "updated": "2021-08-02T15:30:22-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/alligator-pepper.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3658564009485945972",
+      "title": "Alligator pepper",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3658564009485945972/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTQzNDIyMDM3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6963299999335285070",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T15:28:00-07:00",
+      "updated": "2021-08-02T15:28:51-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/allspice.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6963299999335285070",
+      "title": "Allspice",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6963299999335285070/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTQzMzMxNzkyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6343783877124104179",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T15:27:00-07:00",
+      "updated": "2021-08-02T15:27:05-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/alpinia-caerulea.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6343783877124104179",
+      "title": "Alpinia caerulea",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6343783877124104179/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTQzMjI1MzM3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4821737134129527075",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T15:25:00-07:00",
+      "updated": "2021-08-02T15:25:19-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/alpinia-galanga.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4821737134129527075",
+      "title": "Alpinia galanga",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4821737134129527075/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTQzMTE5OTM1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6067599552365356118",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T15:23:00-07:00",
+      "updated": "2021-08-02T15:23:32-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/alpinia-nigra.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6067599552365356118",
+      "title": "Alpinia nigra",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6067599552365356118/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTQzMDEyNjc3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4411784709331495555",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T15:22:00-07:00",
+      "updated": "2021-08-02T15:22:03-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/alpinia-officinarum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4411784709331495555",
+      "title": "Alpinia officinarum",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4411784709331495555/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTQyOTIzODA2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6195009309311205840",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T15:19:00-07:00",
+      "updated": "2021-08-02T15:19:36-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/amchoor.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6195009309311205840",
+      "title": "Amchoor",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6195009309311205840/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTQyNzc2ODQ3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8717380838301739008",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T15:18:00-07:00",
+      "updated": "2021-08-02T15:18:01-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/amomum-ovoideum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/8717380838301739008",
+      "title": "Amomum ovoideum",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/8717380838301739008/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTQyNjgxOTkwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3651878546661263567",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T15:16:00-07:00",
+      "updated": "2021-08-02T15:16:07-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/angostura-bitters.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3651878546661263567",
+      "title": "Angostura bitters",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3651878546661263567/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTQyNTY3OTA1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8231672513180434608",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T15:14:00-07:00",
+      "updated": "2021-08-02T15:14:07-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/anise.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/8231672513180434608",
+      "title": "Anise",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/8231672513180434608/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTQyNDQ3NDM0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6858005131440630342",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T15:10:00-07:00",
+      "updated": "2021-08-02T15:10:57-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/annatto.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6858005131440630342",
+      "title": "Annatto",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6858005131440630342/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTQyMjU3OTI0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2393493931448414116",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T15:06:00-07:00",
+      "updated": "2021-08-02T15:06:23-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/asafoetida.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2393493931448414116",
+      "title": "Asafoetida",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2393493931448414116/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTQxOTgzNjc1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2465278846913056953",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T07:47:00-07:00",
+      "updated": "2021-08-02T07:47:41-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/list-of-australian-herbs-and-spices.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2465278846913056953",
+      "title": "List of Australian herbs and spices",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2465278846913056953/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTE1NjYxNzIzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4163343715063175411",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T06:25:00-07:00",
+      "updated": "2021-08-02T06:25:00-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/backhousia-myrtifolia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4163343715063175411",
+      "title": "Backhousia myrtifolia",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4163343715063175411/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTEwNzAwMzYwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1677278434019902212",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T04:10:00-07:00",
+      "updated": "2021-08-02T04:10:26-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/balsam-of-peru.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1677278434019902212",
+      "title": "Balsam of Peru",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1677278434019902212/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAyNjI2Nzg3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7798096223107361691",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T04:08:00-07:00",
+      "updated": "2021-08-02T04:08:40-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/beau-monde-seasoning.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7798096223107361691",
+      "title": "Beau Monde seasoning",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7798096223107361691/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAyNTIwOTkzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4292781957829957683",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T04:07:00-07:00",
+      "updated": "2021-08-02T04:07:38-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/berberis-vulgaris.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4292781957829957683",
+      "title": "Berberis vulgaris",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4292781957829957683/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAyNDU4MDQ1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6243206387859356322",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T04:06:00-07:00",
+      "updated": "2021-08-02T04:06:15-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/big-jim-pepper.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6243206387859356322",
+      "title": "Big Jim pepper",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6243206387859356322/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAyMzc1NDM5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5471434360030752883",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T04:04:00-07:00",
+      "updated": "2021-08-02T04:04:33-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/birds-eye-chili.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5471434360030752883",
+      "title": "Bird's eye chili",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5471434360030752883/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAyMjczMzgwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5803175250820405762",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T04:03:00-07:00",
+      "updated": "2021-08-02T04:03:04-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/black-cardamom.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5803175250820405762",
+      "title": "Black cardamom",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5803175250820405762/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAyMTg0MjcyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7255785356745644638",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T04:00:00-07:00",
+      "updated": "2021-08-02T04:00:55-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/boesenbergia-rotunda.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7255785356745644638",
+      "title": "Boesenbergia rotunda",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7255785356745644638/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAyMDU1Mzk5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7729668835254637906",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:58:00-07:00",
+      "updated": "2021-08-02T03:58:44-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/brassica-nigra.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7729668835254637906",
+      "title": "Brassica nigra",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7729668835254637906/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAxOTI0MjM3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3949857826774882897",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:57:00-07:00",
+      "updated": "2021-08-02T03:57:21-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/bunium-bulbocastanum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3949857826774882897",
+      "title": "Bunium bulbocastanum",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3949857826774882897/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAxODQxODE4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2641194854506982929",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:55:00-07:00",
+      "updated": "2021-08-02T03:55:54-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/bunium-luristanicum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2641194854506982929",
+      "title": "Bunium luristanicum",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2641194854506982929/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAxNzU0OTkxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2344736161146312343",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:54:00-07:00",
+      "updated": "2021-08-02T03:54:32-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/burlap-barrel.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2344736161146312343",
+      "title": "Burlap & Barrel",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2344736161146312343/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAxNjcyMzQxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3439633396699891016",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:52:00-07:00",
+      "updated": "2021-08-02T03:52:53-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/camphor.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3439633396699891016",
+      "title": "Camphor",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3439633396699891016/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAxNTczODYzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7013716493538977612",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:51:00-07:00",
+      "updated": "2021-08-02T03:51:03-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/candy-cap.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7013716493538977612",
+      "title": "Candy cap",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7013716493538977612/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAxNDYzMjIyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6407058126327087005",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:48:00-07:00",
+      "updated": "2021-08-02T03:48:45-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/canella.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6407058126327087005",
+      "title": "Canella",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6407058126327087005/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAxMzI1Mjg0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5560710902544559056",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:47:00-07:00",
+      "updated": "2021-08-02T03:47:03-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/caper.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5560710902544559056",
+      "title": "Caper",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5560710902544559056/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAxMjIzNjMzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8672381348477358059",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:44:00-07:00",
+      "updated": "2021-08-02T03:44:05-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/caraway.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/8672381348477358059",
+      "title": "Caraway",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/8672381348477358059/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAxMDQ1MzQ2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4282077768833827512",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:42:00-07:00",
+      "updated": "2021-08-02T03:42:15-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/cardamom.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4282077768833827512",
+      "title": "Cardamom",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4282077768833827512/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAwOTM1NDYzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5948820427842514760",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:39:00-07:00",
+      "updated": "2021-08-02T03:39:59-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/carissa-carandas.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5948820427842514760",
+      "title": "Carissa carandas",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5948820427842514760/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAwNzk5MjYwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1186284493086810347",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:38:00-07:00",
+      "updated": "2021-08-02T03:38:37-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/catechu.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1186284493086810347",
+      "title": "Catechu",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1186284493086810347/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAwNzE3MjM2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "738858353270115605",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:36:00-07:00",
+      "updated": "2021-08-02T03:36:59-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/cayenne-pepper.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/738858353270115605",
+      "title": "Cayenne pepper",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/738858353270115605/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAwNjE5Njc0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "339326621039907141",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:35:00-07:00",
+      "updated": "2021-08-02T03:35:27-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/celery.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/339326621039907141",
+      "title": "Celery",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/339326621039907141/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAwNTI3NjUxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6550395443243190765",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:32:00-07:00",
+      "updated": "2021-08-02T03:32:55-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/celery-powder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6550395443243190765",
+      "title": "Celery powder",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6550395443243190765/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAwMzc1NTY2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3490997859576143140",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:31:00-07:00",
+      "updated": "2021-08-02T03:31:32-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/chicory.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3490997859576143140",
+      "title": "Chicory",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3490997859576143140/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAwMjkyNDE2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2260883567224929888",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:29:00-07:00",
+      "updated": "2021-08-02T03:29:07-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/chili-powder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2260883567224929888",
+      "title": "Chili powder",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2260883567224929888/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAwMTQ3NTYyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4101353003942512680",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:27:00-07:00",
+      "updated": "2021-08-02T03:27:39-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/chimayo-pepper.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4101353003942512680",
+      "title": "Chimayo pepper",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4101353003942512680/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTAwMDU5MDk4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7262950907927354922",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:26:00-07:00",
+      "updated": "2021-08-02T03:26:27-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/cinnamomum-burmannii.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7262950907927354922",
+      "title": "Cinnamomum burmannii",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7262950907927354922/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk5OTg3NTQ1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5925687643552950953",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:23:00-07:00",
+      "updated": "2021-08-02T03:23:39-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/cinnamomum-camphora.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5925687643552950953",
+      "title": "Cinnamomum camphora",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5925687643552950953/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk5ODE5NTMxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8864902838416240057",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:21:00-07:00",
+      "updated": "2021-08-02T03:21:36-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/cinnamomum-cassia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/8864902838416240057",
+      "title": "Cinnamomum cassia",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/8864902838416240057/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk5Njk2MTg3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4721229494506504230",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:19:00-07:00",
+      "updated": "2021-08-02T03:19:12-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/cinnamomum-osmophloeum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4721229494506504230",
+      "title": "Cinnamomum osmophloeum",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4721229494506504230/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk5NTUyNzMyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1557567715040915625",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:17:00-07:00",
+      "updated": "2021-08-02T03:17:42-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/cinnamomum-pedunculatum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1557567715040915625",
+      "title": "Cinnamomum pedunculatum",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1557567715040915625/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk5NDYyNzY1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6378157138834845997",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:16:00-07:00",
+      "updated": "2021-08-02T03:16:20-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/cinnamon.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6378157138834845997",
+      "title": "Cinnamon",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6378157138834845997/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk5MzgwNTA3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4384100601981917071",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:13:00-07:00",
+      "updated": "2021-08-02T03:13:44-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/clove.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4384100601981917071",
+      "title": "Clove",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4384100601981917071/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk5MjI0MDczCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4256675173464229819",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:11:00-07:00",
+      "updated": "2021-08-02T03:11:27-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/coriander.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4256675173464229819",
+      "title": "Coriander",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4256675173464229819/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk5MDg3MzIxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7325333704118646459",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:08:00-07:00",
+      "updated": "2021-08-02T03:08:52-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/crab-boil.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7325333704118646459",
+      "title": "Crab boil",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7325333704118646459/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk4OTMyMDQyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2404369370005348862",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:07:00-07:00",
+      "updated": "2021-08-02T03:07:36-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/cumin.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2404369370005348862",
+      "title": "Cumin",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2404369370005348862/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk4ODU2NTU5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "186499752857745905",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:05:00-07:00",
+      "updated": "2021-08-02T03:05:17-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/curcuma-zedoaria.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/186499752857745905",
+      "title": "Curcuma zedoaria",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/186499752857745905/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk4NzE3MzM1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7063155712275102679",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:03:00-07:00",
+      "updated": "2021-08-02T03:03:39-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/cymbopetalum-costaricense.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7063155712275102679",
+      "title": "Cymbopetalum costaricense",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7063155712275102679/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk4NjE5NTQ3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3853809802844871449",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T03:02:00-07:00",
+      "updated": "2021-08-02T03:02:28-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/cymbopetalum-penduliflorum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3853809802844871449",
+      "title": "Cymbopetalum penduliflorum",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3853809802844871449/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk4NTQ4ODU1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7588704136380685939",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T02:58:00-07:00",
+      "updated": "2021-08-02T02:58:57-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/dalea-lasiathera.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7588704136380685939",
+      "title": "Dalea lasiathera",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7588704136380685939/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk4MzM3OTg1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1391094904884925186",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T02:57:00-07:00",
+      "updated": "2021-08-02T02:57:30-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/dill.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1391094904884925186",
+      "title": "Dill",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1391094904884925186/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk4MjUwNzI5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1240207922364680536",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T02:55:00-07:00",
+      "updated": "2021-08-02T02:55:11-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/dipteryx-odorata.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1240207922364680536",
+      "title": "Dipteryx odorata",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1240207922364680536/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk4MTExOTI4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5179353621401170827",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T02:53:00-07:00",
+      "updated": "2021-08-02T02:53:35-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/ditaxis-heterantha.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5179353621401170827",
+      "title": "Ditaxis heterantha",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5179353621401170827/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk4MDE1ODUwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5868686954478697077",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T02:52:00-07:00",
+      "updated": "2021-08-02T02:52:00-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/dolomiaea-costus.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5868686954478697077",
+      "title": "Dolomiaea costus",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5868686954478697077/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk3OTIwMzUyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3865599668201647351",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T02:49:00-07:00",
+      "updated": "2021-08-02T02:49:32-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/dried-lime.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3865599668201647351",
+      "title": "Dried lime",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3865599668201647351/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk3NzcyMjY2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6441477493447080060",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T02:47:00-07:00",
+      "updated": "2021-08-02T02:47:35-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/drimys-winteri.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6441477493447080060",
+      "title": "Drimys winteri",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6441477493447080060/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk3NjU1MDc4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1197708844217271323",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T02:01:00-07:00",
+      "updated": "2021-08-02T02:01:53-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/elettaria-cardamomum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1197708844217271323",
+      "title": "Elettaria cardamomum",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1197708844217271323/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk0OTEzMTcyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4666386389159370975",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T02:00:00-07:00",
+      "updated": "2021-08-02T02:00:27-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/elwendia-persica.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4666386389159370975",
+      "title": "Elwendia persica",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4666386389159370975/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk0ODI3NzM5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2293515984181949600",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T01:57:00-07:00",
+      "updated": "2021-08-02T01:57:07-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/euphorbia-serpyllifolia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2293515984181949600",
+      "title": "Euphorbia serpyllifolia",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2293515984181949600/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk0NjI3MTgyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1627939153561990937",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T01:26:00-07:00",
+      "updated": "2021-08-02T01:26:20-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/fennel.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1627939153561990937",
+      "title": "Fennel",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1627939153561990937/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODkyNzgwMzY0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2849985336094578952",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T01:24:00-07:00",
+      "updated": "2021-08-02T01:24:19-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/fenugreek.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2849985336094578952",
+      "title": "Fenugreek",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2849985336094578952/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODkyNjU5MjQ3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5408288863886739213",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T01:22:00-07:00",
+      "updated": "2021-08-02T01:22:28-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/fenugreek-production-in-india.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5408288863886739213",
+      "title": "Fenugreek production in India",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5408288863886739213/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODkyNTQ4MjgxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3277915736436491769",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T01:20:00-07:00",
+      "updated": "2021-08-02T01:20:55-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/fresno-chile.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3277915736436491769",
+      "title": "Fresno chile",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3277915736436491769/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODkyNDU1NTgzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3204150743122234847",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T01:19:00-07:00",
+      "updated": "2021-08-02T01:19:19-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/galangal.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3204150743122234847",
+      "title": "Galangal",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3204150743122234847/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODkyMzU5NTc3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5447332784966210391",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T01:17:00-07:00",
+      "updated": "2021-08-02T01:17:56-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/garam-masala.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5447332784966210391",
+      "title": "Garam masala",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5447332784966210391/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODkyMjc2ODQxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7028420941295313592",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T01:16:00-07:00",
+      "updated": "2021-08-02T01:16:34-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/garcinia-gummi-gutta.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7028420941295313592",
+      "title": "Garcinia gummi-gutta",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7028420941295313592/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODkyMTk0MTIzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2446077700653659735",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T01:14:00-07:00",
+      "updated": "2021-08-02T01:14:45-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/garcinia-indica.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2446077700653659735",
+      "title": "Garcinia indica",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2446077700653659735/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODkyMDg1ODUwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8539088805982944343",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-02T01:12:00-07:00",
+      "updated": "2021-08-02T01:12:21-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/garlic.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/8539088805982944343",
+      "title": "Garlic",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/8539088805982944343/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODkxOTQxMDc1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3203476813078032851",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T22:36:00-07:00",
+      "updated": "2021-08-01T22:36:48-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/garlic-oil.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3203476813078032851",
+      "title": "Garlic oil",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3203476813078032851/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODgyNjA4OTI4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4550985590555208138",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T22:35:00-07:00",
+      "updated": "2021-08-01T22:35:30-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/garlic-powder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4550985590555208138",
+      "title": "Garlic powder",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4550985590555208138/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODgyNTMwNzgxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6576742795437410325",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T22:33:00-07:00",
+      "updated": "2021-08-01T22:33:34-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/gaultheria-procumbens.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6576742795437410325",
+      "title": "Gaultheria procumbens",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6576742795437410325/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODgyNDE0NjcxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2236094068461728860",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T22:32:00-07:00",
+      "updated": "2021-08-01T22:32:02-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/ginger.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2236094068461728860",
+      "title": "Ginger",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2236094068461728860/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODgyMzIyNDk1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1258152005560825710",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T22:28:00-07:00",
+      "updated": "2021-08-01T22:28:56-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/grains-of-selim.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1258152005560825710",
+      "title": "Grains of Selim",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1258152005560825710/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODgyMTM2NTc1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7128613532986110601",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T22:27:00-07:00",
+      "updated": "2021-08-01T22:27:43-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/heracleum-persicum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7128613532986110601",
+      "title": "Heracleum persicum",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7128613532986110601/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODgyMDYzMjUwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3866779142789945157",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T22:26:00-07:00",
+      "updated": "2021-08-01T22:26:15-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/horseradish.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3866779142789945157",
+      "title": "Horseradish",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3866779142789945157/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODgxOTc1MjA4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5022747986887810458",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T22:24:00-07:00",
+      "updated": "2021-08-01T22:24:10-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/illicium-verum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5022747986887810458",
+      "title": "Illicium verum",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5022747986887810458/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODgxODUwMTQ4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4651156910771688978",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T22:22:00-07:00",
+      "updated": "2021-08-01T22:22:28-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/jakhya.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4651156910771688978",
+      "title": "Jakhya",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4651156910771688978/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODgxNzQ4ODA4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7877178988385533073",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T22:21:00-07:00",
+      "updated": "2021-08-01T22:21:10-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/jerk-cooking.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7877178988385533073",
+      "title": "Jerk (cooking)",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7877178988385533073/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODgxNjcwMzExCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7529931351487178893",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T22:19:00-07:00",
+      "updated": "2021-08-01T22:19:27-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/juniper-berry.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7529931351487178893",
+      "title": "Juniper berry",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7529931351487178893/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODgxNTY3OTY3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7120756361885619723",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T22:17:00-07:00",
+      "updated": "2021-08-01T22:17:06-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/kaffir-lime.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7120756361885619723",
+      "title": "Kaffir lime",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7120756361885619723/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODgxNDI2Mjk0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2020516092747298021",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T22:14:00-07:00",
+      "updated": "2021-08-01T22:14:53-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/kala-namak.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2020516092747298021",
+      "title": "Kala namak",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2020516092747298021/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODgxMjkzNTk1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2439047682500516470",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T22:13:00-07:00",
+      "updated": "2021-08-01T22:13:27-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/leptotes-bicolor.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2439047682500516470",
+      "title": "Leptotes bicolor",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2439047682500516470/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODgxMjA3NjUzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1005367581377631659",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T22:12:00-07:00",
+      "updated": "2021-08-01T22:12:12-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/liquorice.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1005367581377631659",
+      "title": "Liquorice",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1005367581377631659/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODgxMTMyMDg4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1371967356642046951",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T22:10:00-07:00",
+      "updated": "2021-08-01T22:10:12-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/list-of-mustard-brands.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1371967356642046951",
+      "title": "List of mustard brands",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1371967356642046951/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODgxMDEyMjMxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6445369230728691505",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T22:08:00-07:00",
+      "updated": "2021-08-01T22:08:18-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/long-pepper.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6445369230728691505",
+      "title": "Long pepper",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6445369230728691505/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODgwODk4OTg0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4327061808117689679",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T22:06:00-07:00",
+      "updated": "2021-08-01T22:06:31-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/mahleb.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4327061808117689679",
+      "title": "Mahleb",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4327061808117689679/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODgwNzkxNzYxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4798218422182538060",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T22:05:00-07:00",
+      "updated": "2021-08-01T22:05:02-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/malagueta-pepper.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4798218422182538060",
+      "title": "Malagueta pepper",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4798218422182538060/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODgwNzAyNzc4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5158349773062645505",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T20:08:00-07:00",
+      "updated": "2021-08-01T20:08:33-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/mastic-plant-resin.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5158349773062645505",
+      "title": "Mastic (plant resin)",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5158349773062645505/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODczNzEzNTI0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8056417844678045532",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T20:06:00-07:00",
+      "updated": "2021-08-01T20:06:47-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/monodora-myristica.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/8056417844678045532",
+      "title": "Monodora myristica",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/8056417844678045532/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODczNjA3OTEwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7868374337678835046",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T20:03:00-07:00",
+      "updated": "2021-08-01T20:03:53-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/mustard-condiment.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7868374337678835046",
+      "title": "Mustard (condiment)",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7868374337678835046/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODczNDMzMDY4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6844749234330870233",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T19:53:00-07:00",
+      "updated": "2021-08-01T19:53:00-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/mustard-seed.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6844749234330870233",
+      "title": "Mustard seed",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6844749234330870233/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODcyNzgwMjIyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3155671688491142292",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T19:50:00-07:00",
+      "updated": "2021-08-01T19:50:50-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/myrrh.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3155671688491142292",
+      "title": "Myrrh",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3155671688491142292/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODcyNjUwNzM5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8819615399768966862",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T19:43:00-07:00",
+      "updated": "2021-08-01T19:43:40-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/nardostachys-jatamansi.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/8819615399768966862",
+      "title": "Nardostachys jatamansi",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/8819615399768966862/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODcyMjIwNDMyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2730049601526470755",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T19:42:00-07:00",
+      "updated": "2021-08-01T19:42:14-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/new-mexico-chile.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2730049601526470755",
+      "title": "New Mexico chile",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2730049601526470755/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODcyMTM0NjkyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6415910475645859045",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T19:37:00-07:00",
+      "updated": "2021-08-01T19:37:50-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/new-mexico-no-9.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6415910475645859045",
+      "title": "New Mexico No. 9",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6415910475645859045/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODcxODcwMTUzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1457819198797267620",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T19:30:00-07:00",
+      "updated": "2021-08-01T19:30:53-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/nigella-sativa.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1457819198797267620",
+      "title": "Nigella sativa",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1457819198797267620/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODcxNDUzODEwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1625626435225336218",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T19:28:00-07:00",
+      "updated": "2021-08-01T19:28:31-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/nutmeg.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1625626435225336218",
+      "title": "Nutmeg",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1625626435225336218/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODcxMzExNTU0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1038061230840309561",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T19:26:00-07:00",
+      "updated": "2021-08-01T19:26:22-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/onion-powder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1038061230840309561",
+      "title": "Onion powder",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1038061230840309561/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODcxMTgyMDI3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6555714557889496689",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T19:22:00-07:00",
+      "updated": "2021-08-01T19:22:01-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/orange-bitters.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6555714557889496689",
+      "title": "Orange bitters",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6555714557889496689/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODcwOTIxMTMwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "49827930417223213",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T19:20:00-07:00",
+      "updated": "2021-08-01T19:20:40-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/osmundea-pinnatifida_1.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/49827930417223213",
+      "title": "Osmundea pinnatifida",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/49827930417223213/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODcwODQwMTc5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4346735937873457236",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T19:19:00-07:00",
+      "updated": "2021-08-01T19:19:19-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/pandanus-amaryllifolius.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4346735937873457236",
+      "title": "Pandanus amaryllifolius",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4346735937873457236/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODcwNzU5MDk4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "9193385372619833411",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T19:15:00-07:00",
+      "updated": "2021-08-01T19:15:05-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/parmotrema-perlatum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/9193385372619833411",
+      "title": "Parmotrema perlatum",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/9193385372619833411/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODcwNTA1OTU3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3645775517371689982",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T19:13:00-07:00",
+      "updated": "2021-08-01T19:13:40-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/pectis-papposa.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3645775517371689982",
+      "title": "Pectis papposa",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3645775517371689982/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODcwNDIwMjY4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "9206794316028902660",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T19:12:00-07:00",
+      "updated": "2021-08-01T19:12:16-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/penzeys-spices.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/9206794316028902660",
+      "title": "Penzeys Spices",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/9206794316028902660/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODcwMzM2MTA2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4798488654705233304",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T19:10:00-07:00",
+      "updated": "2021-08-01T19:10:55-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/osmundea-pinnatifida.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4798488654705233304",
+      "title": "Osmundea pinnatifida",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4798488654705233304/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODcwMjU1MDUwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1857022312874318539",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T18:58:00-07:00",
+      "updated": "2021-08-01T18:58:58-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/black-pepper.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1857022312874318539",
+      "title": "Black pepper",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1857022312874318539/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY5NTM4NDEwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6577553146905104824",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T18:53:00-07:00",
+      "updated": "2021-08-01T18:53:43-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/peri-peri.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6577553146905104824",
+      "title": "Peri-peri",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6577553146905104824/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY5MjIzMDA4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3778998412945957827",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T18:52:00-07:00",
+      "updated": "2021-08-01T18:52:01-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/persicaria-hydropiper.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3778998412945957827",
+      "title": "Persicaria hydropiper",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3778998412945957827/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY5MTIxNDcyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "9047755258895633279",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T18:49:00-07:00",
+      "updated": "2021-08-01T18:49:46-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/phyllanthus-emblica.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/9047755258895633279",
+      "title": "Phyllanthus emblica",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/9047755258895633279/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY4OTg2MjQxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8207127188828904696",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T18:48:00-07:00",
+      "updated": "2021-08-01T18:48:03-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/pink-peppercorn.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/8207127188828904696",
+      "title": "Pink peppercorn",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/8207127188828904696/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY4ODgzODYyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "149688745420984874",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T18:45:00-07:00",
+      "updated": "2021-08-01T18:45:41-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/piper-borbonense.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/149688745420984874",
+      "title": "Piper borbonense",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/149688745420984874/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY4NzQxNzc2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6574253092653142450",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T18:43:00-07:00",
+      "updated": "2021-08-01T18:43:58-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/piper-cubeba.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6574253092653142450",
+      "title": "Piper cubeba",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6574253092653142450/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY4NjM4MDg0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6009876278082582373",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T18:41:00-07:00",
+      "updated": "2021-08-01T18:41:24-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/piper-excelsum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6009876278082582373",
+      "title": "Piper excelsum",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6009876278082582373/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY4NDg0MTE0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4906408889346291388",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T18:39:00-07:00",
+      "updated": "2021-08-01T18:39:19-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/piper-guineense.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4906408889346291388",
+      "title": "Piper guineense",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4906408889346291388/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY4MzU5Njc1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3500678544322602096",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T18:37:00-07:00",
+      "updated": "2021-08-01T18:37:11-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/pistacia-lentiscus.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3500678544322602096",
+      "title": "Pistacia lentiscus",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3500678544322602096/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY4MjMxMjk2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6533610276045587933",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T18:34:00-07:00",
+      "updated": "2021-08-01T18:34:55-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/poppy-seed.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6533610276045587933",
+      "title": "Poppy seed",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6533610276045587933/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY4MDk1MTUxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4885208006223039425",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T18:32:00-07:00",
+      "updated": "2021-08-01T18:32:20-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/porophyllum-ruderale.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4885208006223039425",
+      "title": "Porophyllum ruderale",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4885208006223039425/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY3OTQwMjg4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5865630789400201835",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T18:30:00-07:00",
+      "updated": "2021-08-01T18:30:47-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/rhus-coriaria.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5865630789400201835",
+      "title": "Rhus coriaria",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5865630789400201835/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY3ODQ3ODE2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1140335030108987800",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T18:29:00-07:00",
+      "updated": "2021-08-01T18:29:16-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/ricinodendron.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1140335030108987800",
+      "title": "Ricinodendron",
+      "content": "",
+	  "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1140335030108987800/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY3NzU2MjcwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7712543990354431897",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T18:24:00-07:00",
+      "updated": "2021-08-01T18:24:32-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/rosa-damascena.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7712543990354431897",
+      "title": "Rosa × damascena",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7712543990354431897/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY3NDcyNDA2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1004274256280752816",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T17:33:00-07:00",
+      "updated": "2021-08-01T17:33:54-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/saffron.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1004274256280752816",
+      "title": "Saffron",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1004274256280752816/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY0NDM0NTk1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "387028390668412030",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T17:30:00-07:00",
+      "updated": "2021-08-01T17:30:58-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/use-of-saffron.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/387028390668412030",
+      "title": "Use of saffron",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/387028390668412030/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY0MjU4NDU0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5883179077290855303",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T17:29:00-07:00",
+      "updated": "2021-08-01T17:29:26-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/saigon-cinnamon.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5883179077290855303",
+      "title": "Saigon cinnamon",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5883179077290855303/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY0MTY2MDIxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "771691908829303771",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T17:28:00-07:00",
+      "updated": "2021-08-01T17:28:04-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/sandia-pepper.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/771691908829303771",
+      "title": "Sandia pepper",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/771691908829303771/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY0MDg0NjQ1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1013226220996821765",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T17:27:00-07:00",
+      "updated": "2021-08-01T17:27:01-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/santa-fe-grande.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1013226220996821765",
+      "title": "Santa Fe Grande",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1013226220996821765/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY0MDIxMDkyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1467617100476879439",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T17:25:00-07:00",
+      "updated": "2021-08-01T17:25:51-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/scoville-scale.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1467617100476879439",
+      "title": "Scoville scale",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1467617100476879439/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODYzOTUxMzIxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5933489671074600461",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T17:24:00-07:00",
+      "updated": "2021-08-01T17:24:04-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/seasoning.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5933489671074600461",
+      "title": "Seasoning",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5933489671074600461/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODYzODQ0NDQ4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2937389960293921879",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T17:22:00-07:00",
+      "updated": "2021-08-01T17:22:48-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/sesame.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2937389960293921879",
+      "title": "Sesame",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2937389960293921879/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODYzNzY4NTk5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7839393656555090663",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T17:19:00-07:00",
+      "updated": "2021-08-01T17:19:29-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/shan-foods.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7839393656555090663",
+      "title": "Shan Foods",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7839393656555090663/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODYzNTY5ODg4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8344645729346536051",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T17:17:00-07:00",
+      "updated": "2021-08-01T17:17:47-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/siling-haba.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/8344645729346536051",
+      "title": "Siling haba",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/8344645729346536051/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODYzNDY3OTQzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1756857472732573864",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T17:16:00-07:00",
+      "updated": "2021-08-01T17:16:29-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/siling-labuyo.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1756857472732573864",
+      "title": "Siling labuyo",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1756857472732573864/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODYzMzg5OTE0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6931484389161071001",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T17:14:00-07:00",
+      "updated": "2021-08-01T17:14:50-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/silphium.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6931484389161071001",
+      "title": "Silphium",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6931484389161071001/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODYzMjkwNzQ3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2471113750068604475",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T17:13:00-07:00",
+      "updated": "2021-08-01T17:13:11-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/smilax-aristolochiifolia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2471113750068604475",
+      "title": "Smilax aristolochiifolia",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2471113750068604475/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODYzMTkxODYyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6208973937185994454",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T17:11:00-07:00",
+      "updated": "2021-08-01T17:50:57-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/smilax-ornata.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6208973937185994454",
+      "title": "Smilax ornata",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6208973937185994454/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY1NDU3MjU4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2274928532646106038",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T17:09:00-07:00",
+      "updated": "2021-08-01T17:09:57-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/solanum-centrale.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2274928532646106038",
+      "title": "Solanum centrale",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2274928532646106038/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODYyOTk3MTQ4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7548374953311566941",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T17:08:00-07:00",
+      "updated": "2021-08-01T17:08:29-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/solo-garlic.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7548374953311566941",
+      "title": "Solo garlic",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7548374953311566941/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODYyOTA5MDM4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2252687529222167855",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T17:07:00-07:00",
+      "updated": "2021-08-01T17:07:07-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/spice-trade.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2252687529222167855",
+      "title": "Spice trade",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2252687529222167855/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODYyODI3ODc2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6779511879036120747",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T17:04:00-07:00",
+      "updated": "2021-08-01T17:04:06-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/the-spice-trail.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6779511879036120747",
+      "title": "The Spice Trail",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6779511879036120747/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODYyNjQ2MTM4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6084652011612909429",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T17:02:00-07:00",
+      "updated": "2021-08-01T17:02:33-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/spiced-wine.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6084652011612909429",
+      "title": "Spiced wine",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6084652011612909429/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODYyNTUzMDk3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5557985828244593797",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T17:01:00-07:00",
+      "updated": "2021-08-01T17:01:18-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/spikenard.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5557985828244593797",
+      "title": "Spikenard",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5557985828244593797/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODYyNDc4Mjk3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7617889056038244718",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T12:52:00-07:00",
+      "updated": "2021-08-01T12:52:02-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/sumac.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7617889056038244718",
+      "title": "Sumac",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/7617889056038244718/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODQ3NTIyMTE2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5347758786305940365",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T12:50:00-07:00",
+      "updated": "2021-08-01T12:50:00-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/syzygium-anisatum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5347758786305940365",
+      "title": "Syzygium anisatum",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5347758786305940365/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODQ3NDAwOTU0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "125162945780310759",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T12:48:00-07:00",
+      "updated": "2021-08-01T17:50:00-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/tagetes-patula.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/125162945780310759",
+      "title": "Tagetes patula",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/125162945780310759/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY1NDAwNzY1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4222799664625600773",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T12:46:00-07:00",
+      "updated": "2021-08-01T12:46:06-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/tamarind.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4222799664625600773",
+      "title": "Tamarind",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4222799664625600773/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODQ3MTY2MTY5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3894464474465680096",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T12:43:00-07:00",
+      "updated": "2021-08-01T12:43:42-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/tasmannia-lanceolata.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3894464474465680096",
+      "title": "Tasmannia lanceolata",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/3894464474465680096/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODQ3MDIyMjY0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2492691332724989939",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T12:42:00-07:00",
+      "updated": "2021-08-01T12:42:36-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/tasmannia-stipitata.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2492691332724989939",
+      "title": "Tasmannia stipitata",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2492691332724989939/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODQ2OTU2MTA1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6438291028609717995",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T12:41:00-07:00",
+      "updated": "2021-08-01T12:41:21-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/trachyspermum-roxburghianum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6438291028609717995",
+      "title": "Trachyspermum roxburghianum",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6438291028609717995/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODQ2ODgxOTgwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5038737857355995461",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T12:40:00-07:00",
+      "updated": "2021-08-01T12:40:08-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/trigonella-caerulea.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5038737857355995461",
+      "title": "Trigonella caerulea",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5038737857355995461/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODQ2ODA4OTE2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "142033034383071070",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T12:38:00-07:00",
+      "updated": "2021-08-01T12:38:30-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/turmeric.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/142033034383071070",
+      "title": "Turmeric",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/142033034383071070/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODQ2NzEwNjU0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6806353767289607467",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T12:35:00-07:00",
+      "updated": "2021-08-01T12:35:47-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/urfa-biber.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6806353767289607467",
+      "title": "Urfa biber",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6806353767289607467/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODQ2NTQ3NzI4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5783763807695843017",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T12:34:00-07:00",
+      "updated": "2021-08-01T12:34:42-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/uzazi.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5783763807695843017",
+      "title": "Uzazi",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5783763807695843017/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODQ2NDgyNTkwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1031338368631987891",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T12:33:00-07:00",
+      "updated": "2021-08-01T12:33:21-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/vanilla.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1031338368631987891",
+      "title": "Vanilla",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1031338368631987891/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODQ2NDAxNzQxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5387202361494179498",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T12:29:00-07:00",
+      "updated": "2021-08-01T12:29:27-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/wasabi.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5387202361494179498",
+      "title": "Wasabi",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/5387202361494179498/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODQ2MTY3MzczCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4759567647391731065",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T12:26:00-07:00",
+      "updated": "2021-08-01T17:48:33-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/white-mustard.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4759567647391731065",
+      "title": "White mustard",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/4759567647391731065/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY1MzEzNTQ0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1402553826990376487",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T12:23:00-07:00",
+      "updated": "2021-08-01T12:23:57-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/wurfbainia-villosa.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1402553826990376487",
+      "title": "Wurfbainia villosa",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1402553826990376487/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODQ1ODM3MTQwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6299786333303125612",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T12:22:00-07:00",
+      "updated": "2021-08-01T12:22:06-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/xylopia-aethiopica.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6299786333303125612",
+      "title": "Xylopia aethiopica",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/6299786333303125612/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODQ1NzI2NDE2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1229257476079692687",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T12:20:00-07:00",
+      "updated": "2021-08-01T12:20:18-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/zanthoxylum-acanthopodium.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1229257476079692687",
+      "title": "Zanthoxylum acanthopodium",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/1229257476079692687/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODQ1NjE4MDg2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "986465532048234057",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T12:19:00-07:00",
+      "updated": "2021-08-01T12:19:02-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/zanthoxylum-armatum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/986465532048234057",
+      "title": "Zanthoxylum armatum",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/986465532048234057/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODQ1NTQyOTc3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "723991675032000669",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T12:17:00-07:00",
+      "updated": "2021-08-01T12:17:01-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/zanthoxylum-piperitum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/723991675032000669",
+      "title": "Zanthoxylum piperitum",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/723991675032000669/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODQ1NDIxMzg2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2991169081460550913",
+      "blog": {
+        "id": "3943234339416028014"
+      },
+      "published": "2021-08-01T12:14:00-07:00",
+      "updated": "2021-08-01T12:14:43-07:00",
+      "url": "http://listspiceswiki.blogspot.com/2021/08/zingiber.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2991169081460550913",
+      "title": "Zingiber",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3943234339416028014/posts/2991169081460550913/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODQ1MjgzOTc5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    }
+  ],
+  "etag": "\"MjAyMS0wOC0wMlQyMjo0MTo1Mi4zNTha\""
+}
